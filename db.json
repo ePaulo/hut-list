@@ -1,0 +1,59 @@
+{
+  "hubs": [
+    {
+      "id": 1,
+      "name": "WATERSPRITE LAKE CAMPGROUND",
+      "description": "BCMC Cabin Entire Cabin Booking",
+      "photo": "https://recsites.bcmc.ca/jomres/assets/images/noimage.svg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "whole_cabin",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "name": "WATERSPRITE LAKE CABIN",
+      "description": "BCMC Cabin Entire Cabin Booking",
+      "photo": "https://recsites.bcmc.ca/jomres/uploadedimages/22/property/0/IMG_20170212_100156943.jpg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "per_person",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "MOUNTAIN LAKE HUT",
+      "description": "BCMC Cabin Individual Beds",
+      "photo": "https://recsites.bcmc.ca/jomres/uploadedimages/20/property/0/mlake1.jpg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "per_person",
+      "price": 20
+    },
+    {
+      "id": 4,
+      "name": "NORTH CREEK HUT",
+      "description": "BCMC Cabin Individual Beds",
+      "photo": "https://recsites.bcmc.ca/jomres/uploadedimages/19/property/0/northcreek1.jpg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "per_person",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "PLUMMER HUT",
+      "description": "BCMC Cabin Individual Beds",
+      "photo": "https://recsites.bcmc.ca/jomres/uploadedimages/8/property/0/plummer1.jpg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "per_person",
+      "price": 10
+    },
+    {
+      "id": 6,
+      "name": "SPEARHEAD HUTS",
+      "description": "BCMC Cabin Entire Cabin Booking",
+      "photo": "https://recsites.bcmc.ca/jomres/uploadedimages/19/property/0/northcreek1.jpg",
+      "locations": ["Vancouver", "British Columbia", "Canada"],
+      "priceType": "per_person",
+      "price": 20
+    }
+  ],
+  "profile": { "name": "customer-01", "id": 1 }
+}
